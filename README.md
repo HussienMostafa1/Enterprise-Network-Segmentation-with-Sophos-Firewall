@@ -19,5 +19,11 @@ Designed and implemented a secure enterprise network infrastructure using Cisco 
 5- Control user access.
 6- Reduce troubleshooting complexity.
 
+## 📊 Network Architecture Comparison
 
+### Before: Flat & Congested Infrastructure
+![Before Redesign](diagrams/network-legacy-before.png)
+
+### After: Secure Segmented Architecture
+![After Optimization](diagrams/network-optimized-after.png)
 
