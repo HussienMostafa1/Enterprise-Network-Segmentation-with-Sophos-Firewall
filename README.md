@@ -38,7 +38,7 @@ Designed and implemented a secure enterprise network infrastructure using Cisco 
 - Network Segmentation
 
 ## Implementation
-هنا بقى خطوات
+
 ### Step 1
 
 Analyzed current network.
